@@ -1,0 +1,11 @@
+.error-container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+  
+  .error {
+    color: #A4171E;
+    border-color: #A4171E;
+    margin: 0.3rem;
+  }
